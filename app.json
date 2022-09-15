@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "VoThanhTai_Ps16534_CP16302_React",
+    "slug": "VoThanhTai_Ps16534_CP16302_React",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "VoThanhTai_Ps16534_CP16302_React"
+}
